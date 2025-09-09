@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cửa hàng đồ gia dụng</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🏠 Cửa hàng đồ gia dụng</h1>
+    <nav>
+      <a href="#">Trang chủ</a>
+      <a href="#products">Sản phẩm</a>
+      <a href="#about">Giới thiệu</a>
+      <a href="#contact">Liên hệ</a>
+    </nav>
+  </header>
+
+  <section class="banner">
+    <h2>Đồ gia dụng chất lượng - Giá rẻ cho mọi nhà</h2>
+    <p>Miễn phí ship đơn hàng từ 200k</p>
+  </section>
+
+  <section id="products">
+    <h2>Sản phẩm nổi bật</h2>
+    <div class="product-grid">
+      <div class="product">
+        <img src="https://i.imgur.com/oP4x5bP.png" alt="Nồi cơm điện">
+        <h3>Nồi cơm điện</h3>
+        <p>Giá: 450.000đ</p>
+      </div>
+      <div class="product">
+        <img src="https://i.imgur.com/wfV9AZW.png" alt="Quạt điện">
+        <h3>Quạt điện</h3>
+        <p>Giá: 300.000đ</p>
+      </div>
+      <div class="product">
+        <img src="https://i.imgur.com/9pOIJvl.png" alt="Đèn học">
+        <h3>Đèn học</h3>
+        <p>Giá: 120.000đ</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>Về chúng tôi</h2>
+    <p>Cửa hàng đồ gia dụng cung cấp các sản phẩm thiết yếu cho sinh viên và gia đình. 
+      Cam kết chất lượng tốt nhất với giá cả hợp lý.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Liên hệ</h2>
+    <p>📍 Địa chỉ: 123 Phạm Văn Đồng, Hà Nội</p>
+    <p>📞 Hotline: 0123 456 789</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Cửa hàng đồ gia dụng</p>
+  </footer>
+</body>
+</html>
